@@ -1,0 +1,230 @@
+﻿Merge branch 'master' of https://github.com/Anand-Krish/CarouselViewProject
+
+# Conflicts:
+#	.gitignore
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   .gradle/2.4/taskArtifacts/cache.properties
+#	new file:   .gradle/2.4/taskArtifacts/cache.properties.lock
+#	new file:   .gradle/2.4/taskArtifacts/fileHashes.bin
+#	new file:   .gradle/2.4/taskArtifacts/fileSnapshots.bin
+#	new file:   .gradle/2.4/taskArtifacts/outputFileStates.bin
+#	new file:   .gradle/2.4/taskArtifacts/taskArtifacts.bin
+#	renamed:    MaterialDesign/.idea/.name -> .idea/.name
+#	renamed:    MaterialDesign/.idea/compiler.xml -> .idea/compiler.xml
+#	renamed:    MaterialDesign/.idea/copyright/profiles_settings.xml -> .idea/copyright/profiles_settings.xml
+#	renamed:    MaterialDesign/.idea/encodings.xml -> .idea/encodings.xml
+#	renamed:    MaterialDesign/.idea/gradle.xml -> .idea/gradle.xml
+#	renamed:    MaterialDesign/.idea/inspectionProfiles/Project_Default.xml -> .idea/inspectionProfiles/Project_Default.xml
+#	renamed:    MaterialDesign/.idea/inspectionProfiles/profiles_settings.xml -> .idea/inspectionProfiles/profiles_settings.xml
+#	new file:   .idea/libraries/ViewHelperLib.xml
+#	new file:   .idea/libraries/appcompat_v7_23_1_1.xml
+#	new file:   .idea/libraries/design_23_1_1.xml
+#	new file:   .idea/libraries/recyclerview_v7_23_1_1.xml
+#	new file:   .idea/libraries/support_annotations_22_2_0.xml
+#	new file:   .idea/libraries/support_annotations_23_1_1.xml
+#	new file:   .idea/libraries/support_v4_23_1_1.xml
+#	renamed:    MaterialDesign/.idea/misc.xml -> .idea/misc.xml
+#	renamed:    MaterialDesign/.idea/modules.xml -> .idea/modules.xml
+#	renamed:    MaterialDesign/.idea/runConfigurations.xml -> .idea/runConfigurations.xml
+#	renamed:    MaterialDesign/.idea/vcs.xml -> .idea/vcs.xml
+#	new file:   .idea/workspace.xml
+#	new file:   AndroidManifest.xml
+#	renamed:    MaterialDesign/MaterialDesign.iml -> MaterialDesign.iml
+#	deleted:    MaterialDesign/.gitignore
+#	new file:   README.md
+#	renamed:    MaterialDesign/mylibrary/.gitignore -> app/.gitignore
+#	renamed:    MaterialDesign/app/app.iml -> app/app.iml
+#	renamed:    MaterialDesign/app/build.gradle -> app/build.gradle
+#	renamed:    MaterialDesign/app/libs/ViewHelperLib.jar -> app/libs/ViewHelperLib.jar
+#	renamed:    MaterialDesign/app/proguard-rules.pro -> app/proguard-rules.pro
+#	renamed:    MaterialDesign/app/src/androidTest/java/info/androidhive/materialdesign/ApplicationTest.java -> app/src/androidTest/java/info/androidhive/materialdesign/ApplicationTest.java
+#	renamed:    MaterialDesign/app/src/main/AndroidManifest.xml -> app/src/main/AndroidManifest.xml
+#	renamed:    MaterialDesign/app/src/main/ic_launcher-web.png -> app/src/main/ic_launcher-web.png
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/ChangePaswordFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/ChangePaswordFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/ContactHelpdeskFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/ContactHelpdeskFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/FragmentDrawer.java -> app/src/main/java/info/androidhive/materialdesign/activity/FragmentDrawer.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/GalleryFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/GalleryFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/LearnMoreFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/LearnMoreFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/MainActivity.java -> app/src/main/java/info/androidhive/materialdesign/activity/MainActivity.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/MySpendsFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/MySpendsFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/PreferenceFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/PreferenceFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/ScanInvoicesFragment.java -> app/src/main/java/info/androidhive/materialdesign/activity/ScanInvoicesFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/activity/dummyActivity.java -> app/src/main/java/info/androidhive/materialdesign/activity/dummyActivity.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/adapter/NavigationDrawerAdapter.java -> app/src/main/java/info/androidhive/materialdesign/adapter/NavigationDrawerAdapter.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/model/NavDrawerItem.java -> app/src/main/java/info/androidhive/materialdesign/model/NavDrawerItem.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/MessageDialogFragment.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/MessageDialogFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/MyFragment.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/MyFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/MyLinearLayout.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/MyLinearLayout.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/MyPagerAdapter.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/MyPagerAdapter.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/Myviewpager.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/Myviewpager.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/OneFragment.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/OneFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/SimpleTabsActivity.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/SimpleTabsActivity.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/ThreeFragment.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/ThreeFragment.java
+#	renamed:    MaterialDesign/app/src/main/java/info/androidhive/materialdesign/tabsdata/TwoFragment.java -> app/src/main/java/info/androidhive/materialdesign/tabsdata/TwoFragment.java
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/add_card.png -> app/src/main/res/drawable-hdpi/add_card.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/heart_default.png -> app/src/main/res/drawable-hdpi/heart_default.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/ic_action_search.png -> app/src/main/res/drawable-hdpi/ic_action_search.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/ic_fab_star.png -> app/src/main/res/drawable-hdpi/ic_fab_star.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/lockcard.png -> app/src/main/res/drawable-hdpi/lockcard.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/menu_location.png -> app/src/main/res/drawable-hdpi/menu_location.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/menu_notification.png -> app/src/main/res/drawable-hdpi/menu_notification.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/menu_viewmodule.png -> app/src/main/res/drawable-hdpi/menu_viewmodule.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/star_favourite.png -> app/src/main/res/drawable-hdpi/star_favourite.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-hdpi/visa.png -> app/src/main/res/drawable-hdpi/visa.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-mdpi/ic_action_search.png -> app/src/main/res/drawable-mdpi/ic_action_search.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/add_card.png -> app/src/main/res/drawable-xhdpi/add_card.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/heart_default.png -> app/src/main/res/drawable-xhdpi/heart_default.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/ic_action_search.png -> app/src/main/res/drawable-xhdpi/ic_action_search.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/ic_fab_star.png -> app/src/main/res/drawable-xhdpi/ic_fab_star.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/lockcard.png -> app/src/main/res/drawable-xhdpi/lockcard.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/menu_location.png -> app/src/main/res/drawable-xhdpi/menu_location.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/menu_notification.png -> app/src/main/res/drawable-xhdpi/menu_notification.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/menu_viewmodule.png -> app/src/main/res/drawable-xhdpi/menu_viewmodule.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xhdpi/star_favourite.png -> app/src/main/res/drawable-xhdpi/star_favourite.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/add_card.png -> app/src/main/res/drawable-xxhdpi/add_card.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/heart_default.png -> app/src/main/res/drawable-xxhdpi/heart_default.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/ic_action_search.png -> app/src/main/res/drawable-xxhdpi/ic_action_search.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/ic_fab_star.png -> app/src/main/res/drawable-xxhdpi/ic_fab_star.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/lockcard.png -> app/src/main/res/drawable-xxhdpi/lockcard.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/menu_location.png -> app/src/main/res/drawable-xxhdpi/menu_location.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/menu_notification.png -> app/src/main/res/drawable-xxhdpi/menu_notification.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/menu_viewmodule.png -> app/src/main/res/drawable-xxhdpi/menu_viewmodule.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable-xxhdpi/star_favourite.png -> app/src/main/res/drawable-xxhdpi/star_favourite.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable/asd.jpg -> app/src/main/res/drawable/asd.jpg
+#	renamed:    MaterialDesign/app/src/main/res/drawable/border.xml -> app/src/main/res/drawable/border.xml
+#	renamed:    MaterialDesign/app/src/main/res/drawable/cardcropedsix.png -> app/src/main/res/drawable/cardcropedsix.png
+#	renamed:    MaterialDesign/app/src/main/res/drawable/fab_label_background.xml -> app/src/main/res/drawable/fab_label_background.xml
+#	renamed:    MaterialDesign/app/src/main/res/drawable/ic_profile.png -> app/src/main/res/drawable/ic_profile.png
+#	renamed:    MaterialDesign/app/src/main/res/layout/activity_main.xml -> app/src/main/res/layout/activity_main.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/activity_main2.xml -> app/src/main/res/layout/activity_main2.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/activity_simple_tabs.xml -> app/src/main/res/layout/activity_simple_tabs.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/activity_splash.xml -> app/src/main/res/layout/activity_splash.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_change_password.xml -> app/src/main/res/layout/fragment_change_password.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_contact_helpdesk.xml -> app/src/main/res/layout/fragment_contact_helpdesk.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_helpdesk.xml -> app/src/main/res/layout/fragment_helpdesk.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_learnmore.xml -> app/src/main/res/layout/fragment_learnmore.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_myspends.xml -> app/src/main/res/layout/fragment_myspends.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_navigation_drawer.xml -> app/src/main/res/layout/fragment_navigation_drawer.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_one.xml -> app/src/main/res/layout/fragment_one.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_preference.xml -> app/src/main/res/layout/fragment_preference.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_scan_invoices.xml -> app/src/main/res/layout/fragment_scan_invoices.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_three.xml -> app/src/main/res/layout/fragment_three.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/fragment_two.xml -> app/src/main/res/layout/fragment_two.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/message_dialogfragment.xml -> app/src/main/res/layout/message_dialogfragment.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/mf.xml -> app/src/main/res/layout/mf.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/nav_drawer_row.xml -> app/src/main/res/layout/nav_drawer_row.xml
+#	renamed:    MaterialDesign/app/src/main/res/layout/toolbar.xml -> app/src/main/res/layout/toolbar.xml
+#	renamed:    MaterialDesign/app/src/main/res/menu/menu_main.xml -> app/src/main/res/menu/menu_main.xml
+#	renamed:    MaterialDesign/app/src/main/res/mipmap-hdpi/ic_launcher.png -> app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	renamed:    MaterialDesign/app/src/main/res/mipmap-mdpi/ic_launcher.png -> app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	renamed:    MaterialDesign/app/src/main/res/mipmap-xhdpi/ic_launcher.png -> app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	renamed:    MaterialDesign/app/src/main/res/mipmap-xxhdpi/ic_launcher.png -> app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	renamed:    MaterialDesign/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png -> app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	renamed:    MaterialDesign/app/src/main/res/values-hdpi/strings.xml -> app/src/main/res/values-hdpi/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-ldpi/strings.xml -> app/src/main/res/values-ldpi/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-mdpi/strings.xml -> app/src/main/res/values-mdpi/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-sw600dp/dimens.xml -> app/src/main/res/values-sw600dp/dimens.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-xxhdpi/strings.xml -> app/src/main/res/values-sw600dp/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-sw720dp-land/dimens.xml -> app/src/main/res/values-sw720dp-land/dimens.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-sw720dp-land/strings.xml -> app/src/main/res/values-sw720dp-land/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-v21/fonts.xml -> app/src/main/res/values-v21/fonts.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-v21/styles.xml -> app/src/main/res/values-v21/styles.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-w820dp/dimens.xml -> app/src/main/res/values-w820dp/dimens.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-xhdpi/strings.xml -> app/src/main/res/values-xhdpi/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-xxhdpi/dimens.xml -> app/src/main/res/values-xxhdpi/dimens.xml
+#	renamed:    MaterialDesign/app/src/main/res/values-sw600dp/strings.xml -> app/src/main/res/values-xxhdpi/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values/colors.xml -> app/src/main/res/values/colors.xml
+#	renamed:    MaterialDesign/app/src/main/res/values/dimens.xml -> app/src/main/res/values/dimens.xml
+#	renamed:    MaterialDesign/app/src/main/res/values/strings.xml -> app/src/main/res/values/strings.xml
+#	renamed:    MaterialDesign/app/src/main/res/values/styles.xml -> app/src/main/res/values/styles.xml
+#	renamed:    MaterialDesign/build.gradle -> build.gradle
+#	new file:   build/intermediates/dex-cache/cache.xml
+#	new file:   build/intermediates/gradle_project_sync_data.bin
+#	renamed:    MaterialDesign/gradle.properties -> gradle.properties
+#	renamed:    MaterialDesign/gradle/wrapper/gradle-wrapper.jar -> gradle/wrapper/gradle-wrapper.jar
+#	renamed:    MaterialDesign/gradle/wrapper/gradle-wrapper.properties -> gradle/wrapper/gradle-wrapper.properties
+#	renamed:    MaterialDesign/gradlew -> gradlew
+#	renamed:    MaterialDesign/gradlew.bat -> gradlew.bat
+#	new file:   ic_launcher-web.png
+#	renamed:    MaterialDesign/library/.gitignore -> library/.gitignore
+#	renamed:    MaterialDesign/library/build.gradle -> library/build.gradle
+#	renamed:    MaterialDesign/library/consumer-proguard-rules.pro -> library/consumer-proguard-rules.pro
+#	renamed:    MaterialDesign/library/gradle-mvn-push.gradle -> library/gradle-mvn-push.gradle
+#	renamed:    MaterialDesign/library/gradle.properties -> library/gradle.properties
+#	renamed:    MaterialDesign/library/library.iml -> library/library.iml
+#	renamed:    MaterialDesign/library/proguard-rules.pro -> library/proguard-rules.pro
+#	renamed:    MaterialDesign/library/src/main/AndroidManifest.xml -> library/src/main/AndroidManifest.xml
+#	renamed:    MaterialDesign/library/src/main/java/com/getbase/floatingactionbutton/AddFloatingActionButton.java -> library/src/main/java/com/getbase/floatingactionbutton/AddFloatingActionButton.java
+#	renamed:    MaterialDesign/library/src/main/java/com/getbase/floatingactionbutton/FloatingActionButton.java -> library/src/main/java/com/getbase/floatingactionbutton/FloatingActionButton.java
+#	renamed:    MaterialDesign/library/src/main/java/com/getbase/floatingactionbutton/FloatingActionsMenu.java -> library/src/main/java/com/getbase/floatingactionbutton/FloatingActionsMenu.java
+#	renamed:    MaterialDesign/library/src/main/java/com/getbase/floatingactionbutton/TouchDelegateGroup.java -> library/src/main/java/com/getbase/floatingactionbutton/TouchDelegateGroup.java
+#	renamed:    MaterialDesign/library/src/main/res/drawable-hdpi/fab_bg_mini.png -> library/src/main/res/drawable-hdpi/fab_bg_mini.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-hdpi/fab_bg_normal.png -> library/src/main/res/drawable-hdpi/fab_bg_normal.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-mdpi/fab_bg_mini.png -> library/src/main/res/drawable-mdpi/fab_bg_mini.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-mdpi/fab_bg_normal.png -> library/src/main/res/drawable-mdpi/fab_bg_normal.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-xhdpi/fab_bg_mini.png -> library/src/main/res/drawable-xhdpi/fab_bg_mini.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-xhdpi/fab_bg_normal.png -> library/src/main/res/drawable-xhdpi/fab_bg_normal.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-xxhdpi/fab_bg_mini.png -> library/src/main/res/drawable-xxhdpi/fab_bg_mini.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-xxhdpi/fab_bg_normal.png -> library/src/main/res/drawable-xxhdpi/fab_bg_normal.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-xxxhdpi/fab_bg_mini.png -> library/src/main/res/drawable-xxxhdpi/fab_bg_mini.png
+#	renamed:    MaterialDesign/library/src/main/res/drawable-xxxhdpi/fab_bg_normal.png -> library/src/main/res/drawable-xxxhdpi/fab_bg_normal.png
+#	renamed:    MaterialDesign/library/src/main/res/values/attrs.xml -> library/src/main/res/values/attrs.xml
+#	renamed:    MaterialDesign/library/src/main/res/values/dimens.xml -> library/src/main/res/values/dimens.xml
+#	renamed:    MaterialDesign/library/src/main/res/values/ids.xml -> library/src/main/res/values/ids.xml
+#	new file:   libs/ViewHelperLib.jar
+#	new file:   libs/android-support-v4.jar
+#	new file:   lint.xml
+#	new file:   local.properties
+#	renamed:    MaterialDesign/app/.gitignore -> mylibrary/.gitignore
+#	renamed:    MaterialDesign/mylibrary/build.gradle -> mylibrary/build.gradle
+#	renamed:    MaterialDesign/mylibrary/mylibrary.iml -> mylibrary/mylibrary.iml
+#	renamed:    MaterialDesign/mylibrary/proguard-rules.pro -> mylibrary/proguard-rules.pro
+#	renamed:    MaterialDesign/mylibrary/src/androidTest/java/com/example/akrishnan/mylibrary/ApplicationTest.java -> mylibrary/src/androidTest/java/com/example/akrishnan/mylibrary/ApplicationTest.java
+#	renamed:    MaterialDesign/mylibrary/src/main/AndroidManifest.xml -> mylibrary/src/main/AndroidManifest.xml
+#	renamed:    MaterialDesign/mylibrary/src/main/res/values/strings.xml -> mylibrary/src/main/res/values/strings.xml
+#	renamed:    MaterialDesign/mylibrary/src/test/java/com/example/akrishnan/mylibrary/ExampleUnitTest.java -> mylibrary/src/test/java/com/example/akrishnan/mylibrary/ExampleUnitTest.java
+#	new file:   proguard-project.txt
+#	new file:   project.properties
+#	new file:   res/drawable-hdpi/Thumbs.db
+#	new file:   res/drawable-hdpi/asd.jpg
+#	new file:   res/drawable-hdpi/ic_launcher.png
+#	new file:   res/drawable-hdpi/imgres.jpg
+#	new file:   res/drawable-mdpi/ic_launcher.png
+#	new file:   res/drawable-xhdpi/ic_launcher.png
+#	new file:   res/drawable-xxhdpi/ic_launcher.png
+#	new file:   res/layout/activity_main.xml
+#	new file:   res/layout/mf.xml
+#	new file:   res/menu/main.xml
+#	new file:   res/values-hdpi/strings.xml
+#	new file:   res/values-ldpi/strings.xml
+#	new file:   res/values-mdpi/strings.xml
+#	new file:   res/values-sw600dp/dimens.xml
+#	new file:   res/values-sw600dp/strings.xml
+#	new file:   res/values-sw720dp-land/dimens.xml
+#	new file:   res/values-sw720dp-land/strings.xml
+#	new file:   res/values-xhdpi/strings.xml
+#	new file:   res/values-xxhdpi/dimens.xml
+#	new file:   res/values-xxhdpi/strings.xml
+#	new file:   res/values/dimens.xml
+#	new file:   res/values/strings.xml
+#	new file:   res/values/styles.xml
+#	renamed:    MaterialDesign/settings.gradle -> settings.gradle
+#	new file:   src/net/infratek/CarouselView/MainActivity.java
+#	new file:   src/net/infratek/CarouselView/MyFragment.java
+#	new file:   src/net/infratek/CarouselView/MyLinearLayout.java
+#	new file:   src/net/infratek/CarouselView/MyPagerAdapter.java
+#
+

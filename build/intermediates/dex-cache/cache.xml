@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\akrishnan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-03d7bd1d474dd6d4ed9b15f77c3caacf53589a70.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-244abe94a53172b8f2491ec5d189609475f4e02f.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-29dd6eb75fee18d633418378664cb00d12b19f7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-4a945e7ad48e74e91b11d358222710f42c3b318a.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\libs\ViewHelperLib.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ff9bcce72f460fd1861ad0c54aab79d5a7b55459">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\ViewHelperLib-4c47a1c7b1b2439dcd6eef5ee07c8f0ed0987c3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-bd1d24efc1647f160fc089c5feb4c2dd5096aa3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-70db41e4ce19c7396e2b0312d822b4999c1f2edb.jar" />
+    </item>
+    <item
+        jar="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\MaterialDesign\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12790f9a3a2b9ef384f15352b5bb04b74083a6ab">
+        <dex dex="C:\Users\akrishnan\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-a0e7e58f9cf448ce9bff2deb40a4f54f0e394c6f.jar" />
+    </item>
+
+</items>
